@@ -44,7 +44,7 @@
         },
         "ids": {
             "default": "",
-            "description": "IDs of the ECSs to reinstall or change the OS. Separate the IDs with spaces. For example, id1 id2 .... ",
+            "description": "服务器ID。IDs of the ECSs to reinstall or change the OS. Separate the IDs with spaces. For example, id1 id2 .... ",
             "type": "string",
             "nullable": "false",
             "validation": {
